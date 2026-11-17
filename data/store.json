@@ -1,0 +1,114 @@
+{
+  "watchlist": [],
+  "history": {
+    "tp:8139511": [
+      {
+        "at": "2026-11-17T18:39:37.783Z",
+        "price": 23,
+        "provider": "TickPick"
+      },
+      {
+        "at": "2026-11-17T18:48:06.348Z",
+        "price": 20.4,
+        "provider": "TickPick"
+      }
+    ],
+    "tp:8057223": [
+      {
+        "at": "2026-11-17T18:39:37.783Z",
+        "price": 33,
+        "provider": "TickPick"
+      }
+    ],
+    "tp:8327928": [
+      {
+        "at": "2026-11-17T18:39:37.783Z",
+        "price": 90,
+        "provider": "TickPick"
+      },
+      {
+        "at": "2026-11-17T18:48:13.068Z",
+        "price": 64,
+        "provider": "TickPick"
+      }
+    ],
+    "tp:8083242": [
+      {
+        "at": "2026-11-17T18:39:37.783Z",
+        "price": 55,
+        "provider": "TickPick"
+      },
+      {
+        "at": "2026-11-17T18:48:13.068Z",
+        "price": 41,
+        "provider": "TickPick"
+      }
+    ],
+    "tp:8237164": [
+      {
+        "at": "2026-11-17T18:39:37.783Z",
+        "price": 16,
+        "provider": "TickPick"
+      }
+    ],
+    "tp:8129240": [
+      {
+        "at": "2026-11-17T18:39:37.783Z",
+        "price": 83,
+        "provider": "TickPick"
+      },
+      {
+        "at": "2026-11-17T18:48:06.348Z",
+        "price": 64.09,
+        "provider": "TickPick"
+      }
+    ],
+    "tp:8158588": [
+      {
+        "at": "2026-11-17T18:39:37.783Z",
+        "price": 46,
+        "provider": "TickPick"
+      }
+    ],
+    "tp:8213852": [
+      {
+        "at": "2026-11-17T18:39:37.783Z",
+        "price": 28,
+        "provider": "TickPick"
+      }
+    ],
+    "tp:8327595": [
+      {
+        "at": "2026-11-17T18:39:37.783Z",
+        "price": 13,
+        "provider": "TickPick"
+      }
+    ],
+    "tp:7674052": [
+      {
+        "at": "2026-11-17T18:39:37.783Z",
+        "price": 144,
+        "provider": "TickPick"
+      },
+      {
+        "at": "2026-11-17T18:48:06.348Z",
+        "price": 116.64,
+        "provider": "TickPick"
+      }
+    ],
+    "tp:7922694": [
+      {
+        "at": "2026-11-17T18:40:22.062Z",
+        "price": 6,
+        "provider": "TickPick"
+      },
+      {
+        "at": "2026-11-17T18:48:06.348Z",
+        "price": 4.5,
+        "provider": "TickPick"
+      }
+    ]
+  },
+  "alerts": [],
+  "notifications": []
+}
